@@ -1,0 +1,6 @@
+/* Remove @tailwind directives */
+/* Remove any other global styles that might conflict, for testing */
+
+@import "tailwindcss"; /* This is the new way for v4 */
+
+/* Your other custom CSS rules can go here, below the import */

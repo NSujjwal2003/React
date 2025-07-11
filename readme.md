@@ -50,6 +50,7 @@ export default {
     autoprefixer,
   ],
 }
+
 🔁 Or use postcss.config.cjs with CommonJS if not using ESM.
 
 ✅ 4. Create or update src/index.css
