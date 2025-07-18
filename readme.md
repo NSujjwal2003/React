@@ -13,7 +13,7 @@ npm install -D tailwindcss@next @tailwindcss/postcss postcss autoprefixer
 Manually Create tailwind.config.js
 
 // tailwind.config.js (in react-router project)
-/** @type {import('tailwindcss').Config} */
+/** @type {import('tailwindcss').Config} c*/
 export default {
   content: [
     "./index.html",
